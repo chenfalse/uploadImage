@@ -27,8 +27,12 @@ npm run dev
 ### 描述
 ```
 项目基于Elementui upload组件 + NodeJs koa2 框架搭建
-mysql存储数据 sequelize操作mysql
+mysql存储数据 
+sequelize操作mysql
 axios 发送http请求
+npm run serve 启动前端项目
+npm run dev 启动node项目
+
 ```
 
 ### Customize configuration
